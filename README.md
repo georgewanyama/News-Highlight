@@ -41,6 +41,9 @@ The project is benceased on the mt licence - lincense
 -input 
 click view button
 click readmore file
+-output
+user is able to see news atricle
+user is able to see images              
 
 ## copyright
 find me @ copyright (c) 2019 litmus
