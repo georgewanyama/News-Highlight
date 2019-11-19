@@ -20,7 +20,7 @@ This is an application  based on display of news from various resources
 - boostrap
 - flask
 
-## fIG.PY configuration for the app 
+## configuration for the app 
  
  Architecture
  - MODEL defines model class
